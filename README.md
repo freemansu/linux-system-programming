@@ -1,2 +1,2 @@
 # linux-system-programming
-Linux system programming sample
+Linux system programming
